@@ -1,4 +1,4 @@
-package com.satria.oop
+package com.nara.oop
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
